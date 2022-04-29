@@ -1,0 +1,14 @@
+<div #sideTogglet [ngClass]="{'sidenav-toggled': toggled}" class="nav-fixed">
+  <app-topbar></app-topbar>
+  <div id="layoutSidenav">
+    <div id="layoutSidenav_nav">
+      <app-sidebar></app-sidebar>
+    </div>
+    <div (click)="eventContent()" id="layoutSidenav_content">
+      <main>
+        <router-outlet></router-outlet>
+      </main>
+      <app-footer></app-footer>
+    </div>
+  </div>
+</div>

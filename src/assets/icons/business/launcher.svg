@@ -1,0 +1,59 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" fill="#191919" height="127.122" width="122.264" y="384.69" x="26.122"/>
+  <rect id="svg_2" fill="#2B292C" height="127.122" width="122.264" y="384.69" x="363.614"/>
+  <rect id="svg_3" fill="#57555C" height="58.342" width="31.347" y="0.184" x="240.327"/>
+  <rect id="svg_4" fill="#2B292C" height="58.342" width="15.673" y="0.184" x="256"/>
+  <rect id="svg_5" fill="#0082D2" height="85.191" width="223.19" y="42.851" x="144.405"/>
+  <rect id="svg_6" fill="#005C94" height="85.191" width="111.595" y="42.851" x="256"/>
+  <rect id="svg_7" fill="#AEADB3" height="415.117" width="290.482" y="96.695" x="110.759"/>
+  <rect id="svg_8" fill="#8B8892" height="415.117" width="145.241" y="96.695" x="256"/>
+  <rect id="svg_9" fill="#FFFFFF" height="330.219" width="167.246" y="165.919" x="172.408"/>
+  <path id="svg_10" fill="#0082D2" d="m156.735,150.25l0,361.566l198.593,0l0,-361.566l-198.593,0zm56.518,330.219l-25.172,0l0,-298.872l25.172,0l0,298.872zm56.111,0l-24.764,0l0,-298.872l24.764,0l0,298.872zm54.617,0l-23.27,0l0,-298.872l23.27,0l0,298.872z"/>
+  <rect id="svg_11" fill="#C8C6CD" height="330.219" width="83.655" y="165.919" x="256"/>
+  <path id="svg_12" fill="#005C94" d="m256,150.25l0,31.347l13.364,0l0,298.872l-13.364,0l0,31.347l99.328,0l0,-361.566l-99.328,0zm67.981,330.219l-23.27,0l0,-298.872l23.27,0l0,298.872z"/>
+  <path id="svg_13" d="m0,480.465l512,0l0,31.347l-512,0l0,-31.347z" opacity="undefined" fill="#191919"/>
+  <rect id="svg_14" fill="#2B292C" height="31.347" width="256" y="480.465" x="256"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <g id="svg_26"/>
+  <g id="svg_27"/>
+  <g id="svg_28"/>
+  <g id="svg_29"/>
+  <g stroke="null">
+   <g stroke="null">
+    <rect stroke="null" fill="#F79F4B" height="145.71859" width="36.21619" y="354.49262" x="65.62962"/>
+    <rect stroke="null" fill="#CA8540" height="145.71859" width="18.10765" y="354.49262" x="65.62962"/>
+    <g stroke="null">
+     <g stroke="null">
+      <g stroke="null">
+       <circle stroke="null" fill="#8DB44E" r="82.33393" cy="286.42121" cx="83.73727"/>
+      </g>
+     </g>
+    </g>
+    <g stroke="null">
+     <g stroke="null">
+      <g stroke="null">
+       <g stroke="null">
+        <path stroke="null" fill="#7DA045" d="m83.73727,368.75512c-51.64306,0 -93.50826,-36.86226 -93.50826,-82.33391s41.8652,-82.33391 93.50826,-82.33391l0,164.66782z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+    <path stroke="null" fill="#387F9E" d="m121.38891,512.1125l-75.30149,0c-7.46473,0 -13.51653,-5.3286 -13.51653,-11.90129s6.0518,-11.90129 13.51653,-11.90129l75.30149,0c7.46473,0 13.51653,5.3286 13.51653,11.90129s-6.0518,11.90129 -13.51653,11.90129z"/>
+    <path stroke="null" fill="#29556E" d="m83.28672,512.1125l-37.2002,0c-7.46473,0 -13.51653,-5.3286 -13.51653,-11.90129s6.0518,-11.90129 13.51653,-11.90129l37.2002,0l0,23.80258z"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,42 @@
+<nav class="sidenav shadow-right sidenav-ebackground">
+  <div class="sidenav-menu">
+    <div class="nav accordion" id="accordionSidenav">
+      <!-- ----------------------- MENU CUENTA --------------------- -->
+      <!-- * * Nota: * * Solo visible de manera responsiva-->
+      <div class="sidenav-menu-heading d-sm-none">Cuenta</div>
+      <!------------------------------ Menu (Alertas)--------------------------->
+      <a class="nav-link d-sm-none" href="#!">
+        <div class="nav-link-icon">
+          <fa-icon [icon]="bell"></fa-icon>
+        </div>
+        Notificaciones
+        <span class="badge bg-warning-soft text-warning ms-auto">4 New!</span>
+      </a>
+      <!------------------------------ Menu (Mensajes)----------------------->
+      <a class="nav-link d-sm-none" href="#!">
+        <div class="nav-link-icon">
+          <fa-icon [icon]="envelope"></fa-icon>
+        </div>
+        Mensajes
+        <span class="badge bg-success-soft text-success ms-auto">2 New!</span>
+      </a>
+      <!------------------------- Sidenav-Menu-Principal-(Dashboard)------------>
+      <div class="sidenav-menu-heading">Principal</div>
+      <a class="nav-link" routerLink="{{urlDashboard}}">
+        <div class="nav-link-icon">
+          <img src="assets/icons/dashboard/launcher.svg">
+        </div>
+        Área personal
+      </a>
+      <!---------------------- End-Sidenav-Menu-Principal-(Dashboard)------------>
+      <!----------------------- Sidenav-Menu-Procesos---------------------------->
+      <div class="sidenav-menu-heading">Departamento</div>
+      <a *ngFor="let module of modules" class="nav-link" routerLink="{{module.path}}">
+        <div class="nav-link-icon">
+          <img src="{{module.icon}}">
+        </div>
+        {{module.name}}
+      </a>
+    </div>
+  </div>
+</nav>

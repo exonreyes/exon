@@ -1,0 +1,11 @@
+.sidenav-ebackground {
+  background-color: #01579B;
+  color: #ffffff;
+}
+.nav-link {
+  color: #dee5ee;
+}
+.nav-link-icon > img {
+  width: 20px;
+  height: 20px;
+}
