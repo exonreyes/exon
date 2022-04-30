@@ -21,4 +21,4 @@ export const modules_app = [
     path: 'business'
   }
 ];
-export const root_name_url='isc';
+export const root_url='isc';
