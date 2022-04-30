@@ -8,9 +8,16 @@ const routes: Routes = [
     path: '',
     redirectTo: root_url,
     pathMatch: 'full'
-  },{
+  },
+  {
     path: root_url,
-    component: SkeletonComponent
+    component: SkeletonComponent,
+    children: [
+      {
+        path: '',
+        loadChildren: () => import('./module/dashboard/dashboard.module').then(value => value.DashboardModule)
+      }
+    ]
   },
   {
     path: '**',
